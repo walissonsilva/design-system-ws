@@ -1,1 +1,2 @@
-export * from './Button'
+export * from './Button/index'
+export * from './Title/index'
